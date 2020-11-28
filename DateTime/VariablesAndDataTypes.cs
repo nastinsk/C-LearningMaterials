@@ -2,7 +2,7 @@
 
 namespace Variables
 {
-    class Program
+    class VariablesAndDataTypes
     {
         static void Main(string[] args)
         {
