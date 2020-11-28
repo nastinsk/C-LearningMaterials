@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ana\\source\\repos\\CSharpLearning\\FirstApp\\VariablesAndDataTypes.csproj",
-      "projectName": "VariablesAndDataTypes",
-      "projectPath": "C:\\Users\\Ana\\source\\repos\\CSharpLearning\\FirstApp\\VariablesAndDataTypes.csproj",
+      "projectUniqueName": "C:\\Users\\Ana\\source\\repos\\CSharpLearning\\CSharpBasics\\CSharpBasics.csproj",
+      "projectName": "CSharpBasics",
+      "projectPath": "C:\\Users\\Ana\\source\\repos\\CSharpLearning\\CSharpBasics\\CSharpBasics.csproj",
       "packagesPath": "C:\\Users\\Ana\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ana\\source\\repos\\CSharpLearning\\FirstApp\\obj\\",
+      "outputPath": "C:\\Users\\Ana\\source\\repos\\CSharpLearning\\CSharpBasics\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Ana\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ana\\source\\repos\\CSharpLearning\\DateTime\\DateTime.csproj": {}
+    "C:\\Users\\Ana\\source\\repos\\CSharpLearning\\CSharpBasics\\CSharpBasics.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ana\\source\\repos\\CSharpLearning\\DateTime\\DateTime.csproj": {
+    "C:\\Users\\Ana\\source\\repos\\CSharpLearning\\CSharpBasics\\CSharpBasics.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ana\\source\\repos\\CSharpLearning\\DateTime\\DateTime.csproj",
-        "projectName": "DateTime",
-        "projectPath": "C:\\Users\\Ana\\source\\repos\\CSharpLearning\\DateTime\\DateTime.csproj",
+        "projectUniqueName": "C:\\Users\\Ana\\source\\repos\\CSharpLearning\\CSharpBasics\\CSharpBasics.csproj",
+        "projectName": "CSharpBasics",
+        "projectPath": "C:\\Users\\Ana\\source\\repos\\CSharpLearning\\CSharpBasics\\CSharpBasics.csproj",
         "packagesPath": "C:\\Users\\Ana\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ana\\source\\repos\\CSharpLearning\\DateTime\\obj\\",
+        "outputPath": "C:\\Users\\Ana\\source\\repos\\CSharpLearning\\CSharpBasics\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ana\\AppData\\Roaming\\NuGet\\NuGet.Config",
