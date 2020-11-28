@@ -1,0 +1,13 @@
+C:\Users\Ana\source\repos\CSharpLearning\ReadLine\bin\Debug\netcoreapp3.1\ReadLineAndArithmetic.exe
+C:\Users\Ana\source\repos\CSharpLearning\ReadLine\bin\Debug\netcoreapp3.1\ReadLineAndArithmetic.deps.json
+C:\Users\Ana\source\repos\CSharpLearning\ReadLine\bin\Debug\netcoreapp3.1\ReadLineAndArithmetic.runtimeconfig.json
+C:\Users\Ana\source\repos\CSharpLearning\ReadLine\bin\Debug\netcoreapp3.1\ReadLineAndArithmetic.runtimeconfig.dev.json
+C:\Users\Ana\source\repos\CSharpLearning\ReadLine\bin\Debug\netcoreapp3.1\ReadLineAndArithmetic.dll
+C:\Users\Ana\source\repos\CSharpLearning\ReadLine\bin\Debug\netcoreapp3.1\ReadLineAndArithmetic.pdb
+C:\Users\Ana\source\repos\CSharpLearning\ReadLine\obj\Debug\netcoreapp3.1\ReadLineAndArithmetic.csprojAssemblyReference.cache
+C:\Users\Ana\source\repos\CSharpLearning\ReadLine\obj\Debug\netcoreapp3.1\ReadLineAndArithmetic.AssemblyInfoInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\ReadLine\obj\Debug\netcoreapp3.1\ReadLineAndArithmetic.AssemblyInfo.cs
+C:\Users\Ana\source\repos\CSharpLearning\ReadLine\obj\Debug\netcoreapp3.1\ReadLineAndArithmetic.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\ReadLine\obj\Debug\netcoreapp3.1\ReadLineAndArithmetic.dll
+C:\Users\Ana\source\repos\CSharpLearning\ReadLine\obj\Debug\netcoreapp3.1\ReadLineAndArithmetic.pdb
+C:\Users\Ana\source\repos\CSharpLearning\ReadLine\obj\Debug\netcoreapp3.1\ReadLineAndArithmetic.genruntimeconfig.cache

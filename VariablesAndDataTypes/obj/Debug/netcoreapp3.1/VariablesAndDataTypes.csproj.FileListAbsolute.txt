@@ -1,0 +1,13 @@
+C:\Users\Ana\source\repos\CSharpLearning\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.exe
+C:\Users\Ana\source\repos\CSharpLearning\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.deps.json
+C:\Users\Ana\source\repos\CSharpLearning\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.runtimeconfig.json
+C:\Users\Ana\source\repos\CSharpLearning\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.runtimeconfig.dev.json
+C:\Users\Ana\source\repos\CSharpLearning\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.dll
+C:\Users\Ana\source\repos\CSharpLearning\VariablesAndDataTypes\bin\Debug\netcoreapp3.1\VariablesAndDataTypes.pdb
+C:\Users\Ana\source\repos\CSharpLearning\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.csprojAssemblyReference.cache
+C:\Users\Ana\source\repos\CSharpLearning\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.AssemblyInfoInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.AssemblyInfo.cs
+C:\Users\Ana\source\repos\CSharpLearning\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.dll
+C:\Users\Ana\source\repos\CSharpLearning\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.pdb
+C:\Users\Ana\source\repos\CSharpLearning\VariablesAndDataTypes\obj\Debug\netcoreapp3.1\VariablesAndDataTypes.genruntimeconfig.cache
