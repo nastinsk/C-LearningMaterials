@@ -1,0 +1,13 @@
+C:\Users\Ana\source\repos\Learning\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.exe
+C:\Users\Ana\source\repos\Learning\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.deps.json
+C:\Users\Ana\source\repos\Learning\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.runtimeconfig.json
+C:\Users\Ana\source\repos\Learning\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.runtimeconfig.dev.json
+C:\Users\Ana\source\repos\Learning\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.dll
+C:\Users\Ana\source\repos\Learning\FirstApp\bin\Debug\netcoreapp3.1\FirstApp.pdb
+C:\Users\Ana\source\repos\Learning\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.csprojAssemblyReference.cache
+C:\Users\Ana\source\repos\Learning\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.AssemblyInfoInputs.cache
+C:\Users\Ana\source\repos\Learning\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.AssemblyInfo.cs
+C:\Users\Ana\source\repos\Learning\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\Learning\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.dll
+C:\Users\Ana\source\repos\Learning\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.pdb
+C:\Users\Ana\source\repos\Learning\FirstApp\obj\Debug\netcoreapp3.1\FirstApp.genruntimeconfig.cache
