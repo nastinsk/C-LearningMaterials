@@ -1,0 +1,12 @@
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\TryParseAndConstants\obj\Debug\netcoreapp3.1\TryParseAndConstants.AssemblyInfoInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\TryParseAndConstants\obj\Debug\netcoreapp3.1\TryParseAndConstants.AssemblyInfo.cs
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\TryParseAndConstants\obj\Debug\netcoreapp3.1\TryParseAndConstants.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\TryParseAndConstants\bin\Debug\netcoreapp3.1\TryParseAndConstants.exe
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\TryParseAndConstants\bin\Debug\netcoreapp3.1\TryParseAndConstants.deps.json
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\TryParseAndConstants\bin\Debug\netcoreapp3.1\TryParseAndConstants.runtimeconfig.json
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\TryParseAndConstants\bin\Debug\netcoreapp3.1\TryParseAndConstants.runtimeconfig.dev.json
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\TryParseAndConstants\bin\Debug\netcoreapp3.1\TryParseAndConstants.dll
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\TryParseAndConstants\bin\Debug\netcoreapp3.1\TryParseAndConstants.pdb
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\TryParseAndConstants\obj\Debug\netcoreapp3.1\TryParseAndConstants.dll
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\TryParseAndConstants\obj\Debug\netcoreapp3.1\TryParseAndConstants.pdb
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\TryParseAndConstants\obj\Debug\netcoreapp3.1\TryParseAndConstants.genruntimeconfig.cache

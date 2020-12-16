@@ -1,0 +1,12 @@
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\ListsAndLoops\bin\Debug\netcoreapp3.1\ListsAndLoops.exe
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\ListsAndLoops\bin\Debug\netcoreapp3.1\ListsAndLoops.deps.json
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\ListsAndLoops\bin\Debug\netcoreapp3.1\ListsAndLoops.runtimeconfig.json
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\ListsAndLoops\bin\Debug\netcoreapp3.1\ListsAndLoops.runtimeconfig.dev.json
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\ListsAndLoops\bin\Debug\netcoreapp3.1\ListsAndLoops.dll
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\ListsAndLoops\bin\Debug\netcoreapp3.1\ListsAndLoops.pdb
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\ListsAndLoops\obj\Debug\netcoreapp3.1\ListsAndLoops.AssemblyInfoInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\ListsAndLoops\obj\Debug\netcoreapp3.1\ListsAndLoops.AssemblyInfo.cs
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\ListsAndLoops\obj\Debug\netcoreapp3.1\ListsAndLoops.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\ListsAndLoops\obj\Debug\netcoreapp3.1\ListsAndLoops.dll
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\ListsAndLoops\obj\Debug\netcoreapp3.1\ListsAndLoops.pdb
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\ListsAndLoops\obj\Debug\netcoreapp3.1\ListsAndLoops.genruntimeconfig.cache
