@@ -15,6 +15,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TryParseAndConstants", "Try
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ListsAndLoops", "ListsAndLoops\ListsAndLoops.csproj", "{BD482045-2DD2-4293-9345-8D950906DC99}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Classes", "Classes\Classes.csproj", "{269D06DE-1134-4D10-AEFE-11539F63BD96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{BD482045-2DD2-4293-9345-8D950906DC99}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD482045-2DD2-4293-9345-8D950906DC99}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD482045-2DD2-4293-9345-8D950906DC99}.Release|Any CPU.Build.0 = Release|Any CPU
+		{269D06DE-1134-4D10-AEFE-11539F63BD96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{269D06DE-1134-4D10-AEFE-11539F63BD96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{269D06DE-1134-4D10-AEFE-11539F63BD96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{269D06DE-1134-4D10-AEFE-11539F63BD96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

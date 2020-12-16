@@ -10,3 +10,4 @@ C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\ListsAndLoops\obj\Debug\ne
 C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\ListsAndLoops\obj\Debug\netcoreapp3.1\ListsAndLoops.dll
 C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\ListsAndLoops\obj\Debug\netcoreapp3.1\ListsAndLoops.pdb
 C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\ListsAndLoops\obj\Debug\netcoreapp3.1\ListsAndLoops.genruntimeconfig.cache
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\ListsAndLoops\obj\Debug\netcoreapp3.1\ListsAndLoops.csprojAssemblyReference.cache

@@ -50,6 +50,29 @@ namespace ListsAndLoops
             {
                 Console.WriteLine($"Hello {name.ToUpper()}!");
             }
+
+            //to search list element by index
+            Console.WriteLine($"Name at index 0 is {names[0]}");
+
+            //to get the amount of elements (length) of the list
+            Console.WriteLine($"The list has {names.Count} elements in it");
+
+
+            // The IndexOf method searches for an item and returns the index of the item. If the item isn't in the list, IndexOf returns -1.
+            var indexName = names.IndexOf("Felipe");
+            Console.WriteLine($"name Filipe is not in the list this why IndexOf returns {indexName}");
+            indexName = names.IndexOf("Derek");
+            Console.WriteLine($"name Derek is in the list this why IndexOf returns {indexName}");
+
+
+            // The Sort method sorts all the items in the list in their normal order (alphabetically for strings).
+            names.Add("Maria");
+            names.Sort();
+
+            foreach (var name in names)
+            {
+                Console.WriteLine($"Hello {name.ToUpper()}!");
+            }
         }
     }
 }

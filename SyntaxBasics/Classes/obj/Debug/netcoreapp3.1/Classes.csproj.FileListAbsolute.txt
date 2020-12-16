@@ -1,0 +1,13 @@
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\Classes\obj\Debug\netcoreapp3.1\Classes.csprojAssemblyReference.cache
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfoInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\Classes\obj\Debug\netcoreapp3.1\Classes.AssemblyInfo.cs
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\Classes\obj\Debug\netcoreapp3.1\Classes.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\Classes\bin\Debug\netcoreapp3.1\Classes.exe
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\Classes\bin\Debug\netcoreapp3.1\Classes.deps.json
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.json
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\Classes\bin\Debug\netcoreapp3.1\Classes.runtimeconfig.dev.json
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\Classes\bin\Debug\netcoreapp3.1\Classes.dll
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\Classes\bin\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\Classes\obj\Debug\netcoreapp3.1\Classes.dll
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\Classes\obj\Debug\netcoreapp3.1\Classes.pdb
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\Classes\obj\Debug\netcoreapp3.1\Classes.genruntimeconfig.cache
