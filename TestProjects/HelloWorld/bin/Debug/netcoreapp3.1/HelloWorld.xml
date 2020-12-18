@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>HelloWorld</name>
+    </assembly>
+    <members>
+        <member name="M:HelloWorld.Program.Main(System.String[])">
+            <summary>
+            Basic console app, that displays "Hello World" to console
+            </summary>
+            <param name="args"></param>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,13 @@
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Enum\bin\Debug\netcoreapp3.1\Enum.exe
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Enum\bin\Debug\netcoreapp3.1\Enum.deps.json
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.json
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Enum\bin\Debug\netcoreapp3.1\Enum.runtimeconfig.dev.json
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Enum\bin\Debug\netcoreapp3.1\Enum.dll
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Enum\bin\Debug\netcoreapp3.1\Enum.pdb
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Enum\obj\Debug\netcoreapp3.1\Enum.csprojAssemblyReference.cache
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfoInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Enum\obj\Debug\netcoreapp3.1\Enum.AssemblyInfo.cs
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Enum\obj\Debug\netcoreapp3.1\Enum.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Enum\obj\Debug\netcoreapp3.1\Enum.dll
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Enum\obj\Debug\netcoreapp3.1\Enum.pdb
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Enum\obj\Debug\netcoreapp3.1\Enum.genruntimeconfig.cache
