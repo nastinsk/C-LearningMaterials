@@ -10,3 +10,4 @@ C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\TryParseAndConstants\bin\D
 C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\TryParseAndConstants\obj\Debug\netcoreapp3.1\TryParseAndConstants.dll
 C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\TryParseAndConstants\obj\Debug\netcoreapp3.1\TryParseAndConstants.pdb
 C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\TryParseAndConstants\obj\Debug\netcoreapp3.1\TryParseAndConstants.genruntimeconfig.cache
+C:\Users\Ana\source\repos\CSharpLearning\SyntaxBasics\TryParseAndConstants\obj\Debug\netcoreapp3.1\TryParseAndConstants.csprojAssemblyReference.cache

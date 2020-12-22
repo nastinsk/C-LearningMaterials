@@ -1,0 +1,13 @@
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Strings\bin\Debug\netcoreapp3.1\Strings.exe
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Strings\bin\Debug\netcoreapp3.1\Strings.deps.json
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.json
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Strings\bin\Debug\netcoreapp3.1\Strings.runtimeconfig.dev.json
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Strings\bin\Debug\netcoreapp3.1\Strings.dll
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Strings\bin\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfoInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Strings\obj\Debug\netcoreapp3.1\Strings.AssemblyInfo.cs
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Strings\obj\Debug\netcoreapp3.1\Strings.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Strings\obj\Debug\netcoreapp3.1\Strings.dll
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Strings\obj\Debug\netcoreapp3.1\Strings.pdb
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Strings\obj\Debug\netcoreapp3.1\Strings.genruntimeconfig.cache
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Strings\obj\Debug\netcoreapp3.1\Strings.csprojAssemblyReference.cache

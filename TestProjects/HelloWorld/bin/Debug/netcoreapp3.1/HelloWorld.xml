@@ -4,7 +4,7 @@
         <name>HelloWorld</name>
     </assembly>
     <members>
-        <member name="M:HelloWorld.Program.Main(System.String[])">
+        <member name="T:HelloWorld.Program">
             <summary>
             Basic console app, that displays "Hello World" to console
             </summary>
