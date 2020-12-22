@@ -1,0 +1,13 @@
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\CommandLineArgs\obj\Debug\netcoreapp3.1\CommandLineArgs.csprojAssemblyReference.cache
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\CommandLineArgs\obj\Debug\netcoreapp3.1\CommandLineArgs.AssemblyInfoInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\CommandLineArgs\obj\Debug\netcoreapp3.1\CommandLineArgs.AssemblyInfo.cs
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\CommandLineArgs\obj\Debug\netcoreapp3.1\CommandLineArgs.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\CommandLineArgs\bin\Debug\netcoreapp3.1\CommandLineArgs.exe
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\CommandLineArgs\bin\Debug\netcoreapp3.1\CommandLineArgs.deps.json
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\CommandLineArgs\bin\Debug\netcoreapp3.1\CommandLineArgs.runtimeconfig.json
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\CommandLineArgs\bin\Debug\netcoreapp3.1\CommandLineArgs.runtimeconfig.dev.json
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\CommandLineArgs\bin\Debug\netcoreapp3.1\CommandLineArgs.dll
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\CommandLineArgs\bin\Debug\netcoreapp3.1\CommandLineArgs.pdb
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\CommandLineArgs\obj\Debug\netcoreapp3.1\CommandLineArgs.dll
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\CommandLineArgs\obj\Debug\netcoreapp3.1\CommandLineArgs.pdb
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\CommandLineArgs\obj\Debug\netcoreapp3.1\CommandLineArgs.genruntimeconfig.cache

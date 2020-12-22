@@ -1,0 +1,12 @@
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\ConsoleIO\bin\Debug\netcoreapp3.1\ConsoleIO.exe
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\ConsoleIO\bin\Debug\netcoreapp3.1\ConsoleIO.deps.json
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\ConsoleIO\bin\Debug\netcoreapp3.1\ConsoleIO.runtimeconfig.json
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\ConsoleIO\bin\Debug\netcoreapp3.1\ConsoleIO.runtimeconfig.dev.json
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\ConsoleIO\bin\Debug\netcoreapp3.1\ConsoleIO.dll
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\ConsoleIO\bin\Debug\netcoreapp3.1\ConsoleIO.pdb
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.AssemblyInfoInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.AssemblyInfo.cs
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.dll
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.pdb
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\ConsoleIO\obj\Debug\netcoreapp3.1\ConsoleIO.genruntimeconfig.cache
