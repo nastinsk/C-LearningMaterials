@@ -89,25 +89,53 @@ namespace Loops
              * 1. Imagine you have a hat with 5 different numbers in it. You take out numbers, one at a time, without putting them back.
              * 2. Write code that prints out every possible combination of numbers you can get, in all the different orders you can get them. Use any type of loops you want
              */
-            string hat = "39564";
+            string hat = "12345";
             Console.Write("\n");
-            foreach (char num in hat)
+            for( i = 0; i < hat.Length; i++)
             {
-                if ((int)num % 2 == 1)
+                for(var j = 0; j < hat.Length; j++)
                 {
-                    Console.Write(digit);
+                    for(var z = 0; z < hat.Length; z++)
+                    {
+                        for (var a = 0; a < hat.Length; a++)
+                        {
+                            for (var b = 0; b < hat.Length; b++)
+                            {
+                                if (i != j && i != z && i != a && i != b && j != z && j != a && j != b && z != a && z != b && a != b)
+                                {
+                                    Console.WriteLine($"{hat[i]}{hat[j]}{hat[z]}{hat[a]}{hat[b]}");
+                                }
+                            }
+                        }
+                    }
                 }
             }
+
+
 
             /*
              * Loop flow control
              * 1. Declare a string s and initialize it to whatever you want.
                 * a. Make sure the first character in your string is repeated somewhere else in the string
-                * 2. Write a loop that searches through the string and looks for another occurrence of the first character found.
-                * 3. If the character found doesn’t match the first one, the loop should immediately go to the next letter
-                * 4. If the character found matches, print the index of the match, and immediately exit the loop.
+             * 2. Write a loop that searches through the string and looks for another occurrence of the first character found.
+             * 3. If the character found doesn’t match the first one, the loop should immediately go to the next letter
+             * 4. If the character found matches, print the index of the match, and immediately exit the loop.
              */
-
+            s = "catcatdog";
+            
+            for (i = 1; i < s.Length; i++)
+            {
+                //code if we want to use "continue statement" for some reason
+                //if(s[i] != s[0])
+                //{                   
+                //    continue;
+                //}
+                if(s[i] == s[0])
+                {
+                    Console.WriteLine(i);
+                    break;
+                }
+            }
         }
     }
 }
