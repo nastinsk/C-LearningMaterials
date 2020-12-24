@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Functions</name>
+    </assembly>
+    <members>
+        <member name="M:Functions.Program.UpdateArray(System.Int32[],System.Int32,System.Int32)">
+            <summary>Function that takes in an int array, an int index, and an int value. The function should update the array at the specified index with the specified value. If the index is out of range, the function should do nothing. Call the function to make sure it works.</summary>
+            <param name="intArr"> An integer array </param>
+            <param name="i"> An integer number of the index </param>
+            <param name="intVal">An integer value </param>
+        </member>
+    </members>
+</doc>

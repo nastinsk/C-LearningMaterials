@@ -15,19 +15,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TypeConversion", "TypeConve
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Strings", "Strings\Strings.csproj", "{3462C313-52EA-40D4-905D-2C568A529CAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Structs", "Structs\Structs.csproj", "{51023B5F-F1E3-4412-8A62-F7807D350404}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Structs", "Structs\Structs.csproj", "{51023B5F-F1E3-4412-8A62-F7807D350404}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleIO", "ConsoleIO\ConsoleIO.csproj", "{927B7276-BBC4-4100-807B-0C5E1BB80F37}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleIO", "ConsoleIO\ConsoleIO.csproj", "{927B7276-BBC4-4100-807B-0C5E1BB80F37}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CommandLineArgs", "CommandLineArgs\CommandLineArgs.csproj", "{41ED0183-0C62-4587-B74B-3B6BDE5869E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CommandLineArgs", "CommandLineArgs\CommandLineArgs.csproj", "{41ED0183-0C62-4587-B74B-3B6BDE5869E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Conditionals", "Conditionals\Conditionals.csproj", "{F7882344-8A67-4065-81D4-F5273D0859DE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Conditionals", "Conditionals\Conditionals.csproj", "{F7882344-8A67-4065-81D4-F5273D0859DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loops", "Loops\Loops.csproj", "{B41D62B1-EB5D-4100-AB0D-A42562D05CB6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Loops", "Loops\Loops.csproj", "{B41D62B1-EB5D-4100-AB0D-A42562D05CB6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Arrays", "Arrays\Arrays.csproj", "{7665374D-F26C-4110-8938-9B3B7FAC3F63}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Arrays", "Arrays\Arrays.csproj", "{7665374D-F26C-4110-8938-9B3B7FAC3F63}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions", "Functions\Functions.csproj", "{13B1CB7B-E2A1-46FD-AFE3-91AAC04C0E55}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Functions", "Functions\Functions.csproj", "{13B1CB7B-E2A1-46FD-AFE3-91AAC04C0E55}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Functions2", "Functions2\Functions2.csproj", "{2EA15139-6A49-4394-AFFD-CFBE690E464D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{13B1CB7B-E2A1-46FD-AFE3-91AAC04C0E55}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{13B1CB7B-E2A1-46FD-AFE3-91AAC04C0E55}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{13B1CB7B-E2A1-46FD-AFE3-91AAC04C0E55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EA15139-6A49-4394-AFFD-CFBE690E464D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EA15139-6A49-4394-AFFD-CFBE690E464D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EA15139-6A49-4394-AFFD-CFBE690E464D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EA15139-6A49-4394-AFFD-CFBE690E464D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

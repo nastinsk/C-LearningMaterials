@@ -1,0 +1,13 @@
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Functions2\bin\Debug\netcoreapp3.1\Functions2.exe
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Functions2\bin\Debug\netcoreapp3.1\Functions2.deps.json
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Functions2\bin\Debug\netcoreapp3.1\Functions2.runtimeconfig.json
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Functions2\bin\Debug\netcoreapp3.1\Functions2.runtimeconfig.dev.json
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Functions2\bin\Debug\netcoreapp3.1\Functions2.dll
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Functions2\bin\Debug\netcoreapp3.1\Functions2.pdb
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Functions2\obj\Debug\netcoreapp3.1\Functions2.AssemblyInfoInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Functions2\obj\Debug\netcoreapp3.1\Functions2.AssemblyInfo.cs
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Functions2\obj\Debug\netcoreapp3.1\Functions2.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Functions2\obj\Debug\netcoreapp3.1\Functions2.dll
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Functions2\obj\Debug\netcoreapp3.1\Functions2.pdb
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Functions2\obj\Debug\netcoreapp3.1\Functions2.genruntimeconfig.cache
+C:\Users\Ana\source\repos\CSharpLearning\TestProjects\Functions2\obj\Debug\netcoreapp3.1\Functions2.csprojAssemblyReference.cache
