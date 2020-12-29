@@ -1,0 +1,13 @@
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\ReadTextFiles\bin\Debug\netcoreapp3.1\ReadTextFiles.exe
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\ReadTextFiles\bin\Debug\netcoreapp3.1\ReadTextFiles.deps.json
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\ReadTextFiles\bin\Debug\netcoreapp3.1\ReadTextFiles.runtimeconfig.json
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\ReadTextFiles\bin\Debug\netcoreapp3.1\ReadTextFiles.runtimeconfig.dev.json
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\ReadTextFiles\bin\Debug\netcoreapp3.1\ReadTextFiles.dll
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\ReadTextFiles\bin\Debug\netcoreapp3.1\ReadTextFiles.pdb
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\ReadTextFiles\obj\Debug\netcoreapp3.1\ReadTextFiles.csprojAssemblyReference.cache
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\ReadTextFiles\obj\Debug\netcoreapp3.1\ReadTextFiles.AssemblyInfoInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\ReadTextFiles\obj\Debug\netcoreapp3.1\ReadTextFiles.AssemblyInfo.cs
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\ReadTextFiles\obj\Debug\netcoreapp3.1\ReadTextFiles.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\ReadTextFiles\obj\Debug\netcoreapp3.1\ReadTextFiles.dll
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\ReadTextFiles\obj\Debug\netcoreapp3.1\ReadTextFiles.pdb
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\ReadTextFiles\obj\Debug\netcoreapp3.1\ReadTextFiles.genruntimeconfig.cache
