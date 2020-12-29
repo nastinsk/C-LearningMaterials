@@ -1,0 +1,13 @@
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\WriteTextFiles\bin\Debug\netcoreapp3.1\WriteTextFiles.exe
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\WriteTextFiles\bin\Debug\netcoreapp3.1\WriteTextFiles.deps.json
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\WriteTextFiles\bin\Debug\netcoreapp3.1\WriteTextFiles.runtimeconfig.json
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\WriteTextFiles\bin\Debug\netcoreapp3.1\WriteTextFiles.runtimeconfig.dev.json
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\WriteTextFiles\bin\Debug\netcoreapp3.1\WriteTextFiles.dll
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\WriteTextFiles\bin\Debug\netcoreapp3.1\WriteTextFiles.pdb
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\WriteTextFiles\obj\Debug\netcoreapp3.1\WriteTextFiles.csprojAssemblyReference.cache
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\WriteTextFiles\obj\Debug\netcoreapp3.1\WriteTextFiles.AssemblyInfoInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\WriteTextFiles\obj\Debug\netcoreapp3.1\WriteTextFiles.AssemblyInfo.cs
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\WriteTextFiles\obj\Debug\netcoreapp3.1\WriteTextFiles.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\WriteTextFiles\obj\Debug\netcoreapp3.1\WriteTextFiles.dll
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\WriteTextFiles\obj\Debug\netcoreapp3.1\WriteTextFiles.pdb
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\WriteTextFiles\obj\Debug\netcoreapp3.1\WriteTextFiles.genruntimeconfig.cache

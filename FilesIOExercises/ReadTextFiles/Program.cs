@@ -14,6 +14,8 @@ namespace ReadTextFiles
                 * a. Make sure to use a “using” block
              */
             string filePath = @"/Users/Ana/source/repos/CSharpLearning/FilesIOExercises/ReadTextFiles/textFile.txt";
+
+            //read all lines from file and store each line in array
             string[] lines = System.IO.File.ReadAllLines(filePath);
             Array.ForEach(lines, Console.WriteLine);
 
