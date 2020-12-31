@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReadTextFiles", "ReadTextFi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WriteTextFiles", "WriteTextFiles\WriteTextFiles.csproj", "{1C950B36-F797-4A31-873C-B99AB56F108F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XMLFiles", "XMLFiles\XMLFiles.csproj", "{FE6EC9A4-55C6-4B2D-8294-9B7233831DDC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{1C950B36-F797-4A31-873C-B99AB56F108F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1C950B36-F797-4A31-873C-B99AB56F108F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1C950B36-F797-4A31-873C-B99AB56F108F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FE6EC9A4-55C6-4B2D-8294-9B7233831DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE6EC9A4-55C6-4B2D-8294-9B7233831DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE6EC9A4-55C6-4B2D-8294-9B7233831DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE6EC9A4-55C6-4B2D-8294-9B7233831DDC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

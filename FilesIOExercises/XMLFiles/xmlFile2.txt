@@ -1,0 +1,1 @@
+<?xml version="1.0"?><!--new XML file--><Users><User FirstName="Adam" LastName="Yoblick" Profession="Adam" /><Address Street="123 Main St" City="Redmond" State="WA" Zip="12345" /><User FirstName="Batman" LastName="" Profession="Batman" /><Address Street="Batcave" City="Gothem city" State="" Zip="" /></Users>

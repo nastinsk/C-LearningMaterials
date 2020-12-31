@@ -1,0 +1,13 @@
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\XMLFiles\bin\Debug\netcoreapp3.1\XMLFiles.exe
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\XMLFiles\bin\Debug\netcoreapp3.1\XMLFiles.deps.json
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\XMLFiles\bin\Debug\netcoreapp3.1\XMLFiles.runtimeconfig.json
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\XMLFiles\bin\Debug\netcoreapp3.1\XMLFiles.runtimeconfig.dev.json
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\XMLFiles\bin\Debug\netcoreapp3.1\XMLFiles.dll
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\XMLFiles\bin\Debug\netcoreapp3.1\XMLFiles.pdb
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\XMLFiles\obj\Debug\netcoreapp3.1\XMLFiles.csprojAssemblyReference.cache
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\XMLFiles\obj\Debug\netcoreapp3.1\XMLFiles.AssemblyInfoInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\XMLFiles\obj\Debug\netcoreapp3.1\XMLFiles.AssemblyInfo.cs
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\XMLFiles\obj\Debug\netcoreapp3.1\XMLFiles.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\XMLFiles\obj\Debug\netcoreapp3.1\XMLFiles.dll
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\XMLFiles\obj\Debug\netcoreapp3.1\XMLFiles.pdb
+C:\Users\Ana\source\repos\CSharpLearning\FilesIOExercises\XMLFiles\obj\Debug\netcoreapp3.1\XMLFiles.genruntimeconfig.cache
