@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionTests", "RecursionTests\RecursionTests.csproj", "{BDD51B73-E401-4BD2-86B8-9601ACDDE21D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideAndConquer", "DivideAndConquer\DivideAndConquer.csproj", "{9451B892-2C7D-4DF0-A9A8-FFE14444AB02}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideAndConquerTests", "DivideAndConquerTests\DivideAndConquerTests.csproj", "{5F29E1F0-371E-494F-A596-E86799A2FE64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{BDD51B73-E401-4BD2-86B8-9601ACDDE21D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BDD51B73-E401-4BD2-86B8-9601ACDDE21D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BDD51B73-E401-4BD2-86B8-9601ACDDE21D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9451B892-2C7D-4DF0-A9A8-FFE14444AB02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9451B892-2C7D-4DF0-A9A8-FFE14444AB02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9451B892-2C7D-4DF0-A9A8-FFE14444AB02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9451B892-2C7D-4DF0-A9A8-FFE14444AB02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5F29E1F0-371E-494F-A596-E86799A2FE64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F29E1F0-371E-494F-A596-E86799A2FE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F29E1F0-371E-494F-A596-E86799A2FE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F29E1F0-371E-494F-A596-E86799A2FE64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
