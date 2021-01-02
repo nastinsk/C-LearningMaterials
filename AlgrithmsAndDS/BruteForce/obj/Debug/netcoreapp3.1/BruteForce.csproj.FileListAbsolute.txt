@@ -1,0 +1,13 @@
+C:\Users\Ana\source\repos\CSharpLearning\AlgrithmsAndDS\BruteForce\bin\Debug\netcoreapp3.1\BruteForce.exe
+C:\Users\Ana\source\repos\CSharpLearning\AlgrithmsAndDS\BruteForce\bin\Debug\netcoreapp3.1\BruteForce.deps.json
+C:\Users\Ana\source\repos\CSharpLearning\AlgrithmsAndDS\BruteForce\bin\Debug\netcoreapp3.1\BruteForce.runtimeconfig.json
+C:\Users\Ana\source\repos\CSharpLearning\AlgrithmsAndDS\BruteForce\bin\Debug\netcoreapp3.1\BruteForce.runtimeconfig.dev.json
+C:\Users\Ana\source\repos\CSharpLearning\AlgrithmsAndDS\BruteForce\bin\Debug\netcoreapp3.1\BruteForce.dll
+C:\Users\Ana\source\repos\CSharpLearning\AlgrithmsAndDS\BruteForce\bin\Debug\netcoreapp3.1\BruteForce.pdb
+C:\Users\Ana\source\repos\CSharpLearning\AlgrithmsAndDS\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.csprojAssemblyReference.cache
+C:\Users\Ana\source\repos\CSharpLearning\AlgrithmsAndDS\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.AssemblyInfoInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\AlgrithmsAndDS\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.AssemblyInfo.cs
+C:\Users\Ana\source\repos\CSharpLearning\AlgrithmsAndDS\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.csproj.CoreCompileInputs.cache
+C:\Users\Ana\source\repos\CSharpLearning\AlgrithmsAndDS\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.dll
+C:\Users\Ana\source\repos\CSharpLearning\AlgrithmsAndDS\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.pdb
+C:\Users\Ana\source\repos\CSharpLearning\AlgrithmsAndDS\BruteForce\obj\Debug\netcoreapp3.1\BruteForce.genruntimeconfig.cache
