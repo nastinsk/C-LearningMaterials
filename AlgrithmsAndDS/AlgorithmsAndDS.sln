@@ -3,17 +3,21 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BruteForce", "BruteForce\BruteForce.csproj", "{9BD661E1-35C7-4A09-9E92-580376FB2F40}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BruteForce", "BruteForce\BruteForce.csproj", "{9BD661E1-35C7-4A09-9E92-580376FB2F40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestBruteForce", "TestBruteForce\TestBruteForce.csproj", "{94FD4936-6CD6-4FB8-A5BF-D048733408C3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestBruteForce", "TestBruteForce\TestBruteForce.csproj", "{94FD4936-6CD6-4FB8-A5BF-D048733408C3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recursion", "Recursion\Recursion.csproj", "{AB6F33CA-B40E-4BFE-AB70-48608620A0A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recursion", "Recursion\Recursion.csproj", "{AB6F33CA-B40E-4BFE-AB70-48608620A0A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecursionTests", "RecursionTests\RecursionTests.csproj", "{BDD51B73-E401-4BD2-86B8-9601ACDDE21D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecursionTests", "RecursionTests\RecursionTests.csproj", "{BDD51B73-E401-4BD2-86B8-9601ACDDE21D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideAndConquer", "DivideAndConquer\DivideAndConquer.csproj", "{9451B892-2C7D-4DF0-A9A8-FFE14444AB02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivideAndConquer", "DivideAndConquer\DivideAndConquer.csproj", "{9451B892-2C7D-4DF0-A9A8-FFE14444AB02}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DivideAndConquerTests", "DivideAndConquerTests\DivideAndConquerTests.csproj", "{5F29E1F0-371E-494F-A596-E86799A2FE64}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DivideAndConquerTests", "DivideAndConquerTests\DivideAndConquerTests.csproj", "{5F29E1F0-371E-494F-A596-E86799A2FE64}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Greedy", "Greedy\Greedy.csproj", "{32683E7E-A6D6-43A2-8F2D-2F80002364DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreedyTests", "GreedyTests\GreedyTests.csproj", "{33E63571-B097-4D4E-884F-48691B6F5555}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +49,14 @@ Global
 		{5F29E1F0-371E-494F-A596-E86799A2FE64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F29E1F0-371E-494F-A596-E86799A2FE64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F29E1F0-371E-494F-A596-E86799A2FE64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32683E7E-A6D6-43A2-8F2D-2F80002364DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32683E7E-A6D6-43A2-8F2D-2F80002364DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32683E7E-A6D6-43A2-8F2D-2F80002364DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32683E7E-A6D6-43A2-8F2D-2F80002364DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{33E63571-B097-4D4E-884F-48691B6F5555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{33E63571-B097-4D4E-884F-48691B6F5555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{33E63571-B097-4D4E-884F-48691B6F5555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{33E63571-B097-4D4E-884F-48691B6F5555}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
